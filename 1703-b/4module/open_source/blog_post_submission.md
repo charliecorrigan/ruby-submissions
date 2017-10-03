@@ -30,7 +30,7 @@
 
 ## Charlie Corrigan
 
-* Link to Blog Post:
+* Link to Blog Post: https://gist.github.com/charliecorrigan/3d0acabaac5f3fd243ed43ce788e59ba
 
 ## Chris Smith
 
